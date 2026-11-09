@@ -1,0 +1,11 @@
+# 公開するのは各建物の site フォルダと公開用の設定だけ（計画・調査メモ・CLAUDE.md などは入れない）
+/*
+!/.gitignore
+!/.github/
+!/portal/
+!/tsurumi/
+!/sawatari/
+!/yoshinocho/
+/*/*
+!/*/site/
+!/.github/**
